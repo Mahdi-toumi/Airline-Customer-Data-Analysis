@@ -48,7 +48,6 @@ This project performs an unsupervised analysis of airline customer data to segme
    - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `tabulate`
 2. **Setup**:
    - Clone the repository: `git clone https://github.com/yourusername/airline-customer-analysis.git`
-   - Install dependencies: `pip install -r requirements.txt`
 3. **Run**:
    - Open `Compagnie_aérienne.ipynb` in Jupyter Notebook or Google Colab.
    - Ensure the dataset (`airline_customer_satisfaction.csv`) is in the project directory.
