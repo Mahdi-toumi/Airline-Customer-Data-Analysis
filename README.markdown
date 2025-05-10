@@ -92,10 +92,7 @@ This project performs an unsupervised analysis of airline customer data to segme
 - Explore cross-platform deployment (e.g., web app) for stakeholder access.
 
 ## Contributors
-- **Your Name** (replace with actual contributor names)
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+- **Mahdi TOUMI**
 
 ## Acknowledgments
 This project was developed as part of a data science course, leveraging a modified Kaggle dataset. Special thanks to John D. for the original dataset and to the open-source community for tools like `scikit-learn` and `seaborn`.
